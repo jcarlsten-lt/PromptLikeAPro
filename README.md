@@ -49,5 +49,3 @@ Welcome to **Prompt Like a Pro**, a practical guide and presentation on integrat
 If you found this helpful or want to contribute additional tools or workflows, feel free to open a PR or reach out!
 
 ---
-
-© 2025 Jeremy Carlsten • _Prompt Like a Pro_
